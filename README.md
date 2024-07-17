@@ -2,7 +2,7 @@ Quick and dirty script to organize photos into three folders -> selfies , group 
 It detects faces and counts them 
 
 1-2 - selfie
-&lt;2 - group photos
+&gt;2 - group photos
 0 - no faces
 
 create folders nofaces,selfies,group at the same level as the photos folder
